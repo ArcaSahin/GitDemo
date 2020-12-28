@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="119" started-at="2020-08-06T19:38:07 EET" finished-at="2020-08-06T19:38:07 EET">
+    <groups>
+      <group name="Smoke">
+        <method signature="SeleniumTest.FamilyMembers()[pri:0, instance:sahabilgiteknolojileri.Mavenjava2.SeleniumTest@71423665]" name="FamilyMembers" class="sahabilgiteknolojileri.Mavenjava2.SeleniumTest"/>
+        <method signature="SeleniumTest2.FamilyMembersAges()[pri:0, instance:sahabilgiteknolojileri.Mavenjava2.SeleniumTest2@20398b7c]" name="FamilyMembersAges" class="sahabilgiteknolojileri.Mavenjava2.SeleniumTest2"/>
+        <method signature="SeleniumTest.FamilyMembers()[pri:0, instance:sahabilgiteknolojileri.Mavenjava2.SeleniumTest@3a5ed7a6]" name="FamilyMembers" class="sahabilgiteknolojileri.Mavenjava2.SeleniumTest"/>
+        <method signature="SeleniumTest2.FamilyMembersAges()[pri:0, instance:sahabilgiteknolojileri.Mavenjava2.SeleniumTest2@6325a3ee]" name="FamilyMembersAges" class="sahabilgiteknolojileri.Mavenjava2.SeleniumTest2"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test name="Test" duration-ms="63" started-at="2020-08-06T19:38:07 EET" finished-at="2020-08-06T19:38:07 EET">
+      <class name="sahabilgiteknolojileri.Mavenjava2.SeleniumTest">
+        <test-method status="PASS" signature="FamilyMembers()[pri:0, instance:sahabilgiteknolojileri.Mavenjava2.SeleniumTest@71423665]" name="FamilyMembers" duration-ms="6" started-at="2020-08-06T19:38:07 EET" finished-at="2020-08-06T19:38:07 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FamilyMembers -->
+      </class> <!-- sahabilgiteknolojileri.Mavenjava2.SeleniumTest -->
+      <class name="sahabilgiteknolojileri.Mavenjava2.SeleniumTest2">
+        <test-method status="PASS" signature="FamilyMembersAges()[pri:0, instance:sahabilgiteknolojileri.Mavenjava2.SeleniumTest2@20398b7c]" name="FamilyMembersAges" duration-ms="0" started-at="2020-08-06T19:38:07 EET" finished-at="2020-08-06T19:38:07 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FamilyMembersAges -->
+      </class> <!-- sahabilgiteknolojileri.Mavenjava2.SeleniumTest2 -->
+    </test> <!-- Test -->
+    <test name="GroupTest" duration-ms="8" started-at="2020-08-06T19:38:07 EET" finished-at="2020-08-06T19:38:07 EET">
+      <class name="sahabilgiteknolojileri.Mavenjava2.SeleniumTest">
+        <test-method status="PASS" signature="FamilyMembers()[pri:0, instance:sahabilgiteknolojileri.Mavenjava2.SeleniumTest@3a5ed7a6]" name="FamilyMembers" duration-ms="1" started-at="2020-08-06T19:38:07 EET" finished-at="2020-08-06T19:38:07 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FamilyMembers -->
+      </class> <!-- sahabilgiteknolojileri.Mavenjava2.SeleniumTest -->
+      <class name="sahabilgiteknolojileri.Mavenjava2.SeleniumTest2">
+        <test-method status="PASS" signature="FamilyMembersAges()[pri:0, instance:sahabilgiteknolojileri.Mavenjava2.SeleniumTest2@6325a3ee]" name="FamilyMembersAges" duration-ms="1" started-at="2020-08-06T19:38:07 EET" finished-at="2020-08-06T19:38:07 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FamilyMembersAges -->
+      </class> <!-- sahabilgiteknolojileri.Mavenjava2.SeleniumTest2 -->
+    </test> <!-- GroupTest -->
+  </suite> <!-- Suite -->
+</testng-results>
